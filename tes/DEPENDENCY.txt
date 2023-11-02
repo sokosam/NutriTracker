@@ -1,0 +1,1 @@
+Please add pytesseract and its dependencies in this folder or change the path to pytesseract in menu
